@@ -17,3 +17,4 @@ I will show k-means clustering with 2 examples:
 
 
 
+![image](images/kmeans.jpg)
